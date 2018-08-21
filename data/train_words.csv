@@ -1,0 +1,7 @@
+video,speaker,word,startframe,endframe
+1,v,Cop,23,29
+1,v,FIND,36,44
+1,v,CAT,51,61
+2,j,Cop,17,23
+2,j,FIND,31,38
+2,j,CAT,46,52

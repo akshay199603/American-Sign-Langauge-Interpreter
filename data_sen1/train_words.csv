@@ -1,0 +1,15 @@
+video,speaker,word,startframe,endframe
+1,v,Goodnight,16,32
+1,v,Father,47,52
+1,v,And,59,75
+1,v,Cop,83,91
+2,j,Goodnight,16,25
+2,j,Father,34,40
+2,j,And,49,58
+2,j,Cop,66,71
+5,v,Cop,23,29
+5,v,FIND,36,44
+5,v,CAT,51,61
+6,j,Cop,17,23
+6,j,FIND,31,38
+6,j,CAT,46,52

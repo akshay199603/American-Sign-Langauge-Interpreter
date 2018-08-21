@@ -1,0 +1,17 @@
+video,speaker,word,startframe,endframe
+5,v,Cop,11,15
+5,v,Hear,19,29
+5,v,About,33,40
+5,v,Deaf,44,50
+5,v,Cat,55,60
+5,v,And,65,73
+5,v,Decide,78,86
+5,v,Find,89,92
+6,j,Cop,11,18
+6,j,Hear,21,28
+6,j,About,33,41
+6,j,Deaf,45,50
+6,j,Cat,57,61
+6,j,And,67,74
+6,j,Decide,78,86
+6,j,Find,91,96
